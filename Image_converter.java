@@ -9,6 +9,9 @@ import javax.swing.*;
 
 import java.awt.Graphics2D;
 
+/*
+@author:Vishal Singh
+*/
 
 public class Image_converter implements ActionListener, KeyListener
 {
